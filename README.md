@@ -21,8 +21,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/crinny/b0mb3r/wiki/%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0">Установка</a> •
-  <a href="https://github.com/crinny/b0mb3r/wiki">Расширенное использование</a>
+  <a href="https://github.com/AndreyRGW/crinny.b0mb3r/wiki/%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0">Установка</a> •
+  <a href="https://github.com/AndreyRGW/crinny.b0mb3r/wiki">Расширенное использование</a>
 </p>
 
 ## Документация
